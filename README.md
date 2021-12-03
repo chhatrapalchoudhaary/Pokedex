@@ -8,3 +8,6 @@ The Pokédex is one of the main elements of the game. It is a compendium of info
 ## Libraries and API's
 - In this project, Official Pokedexapi is used.
 - API: Its available on this web: https://pokeapi.co/
+
+#Fonts
+-Outfit
